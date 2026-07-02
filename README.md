@@ -1,42 +1,31 @@
-Hi, I'm Adil 👋
+👋 Hi, I'm Adil
 
-Junior Java Backend Developer based in Astana, Kazakhstan.
+Java Backend Developer
 
-I build REST APIs with Java and Spring Boot, focusing on clean architecture, secure authentication, and proper database design. Currently looking for a Junior Java Developer role.
+Spring Boot • PostgreSQL • Docker
 
-🛠 Stack
+--------------------
 
-Core: Java · Spring Boot · REST API · PostgreSQL · Git
-Also using: Docker · Liquibase / Flyway · JWT · Spring Security
+⭐ Bank Management API
 
-🚀 Featured Projects
+⭐ Personal Finance API
 
-bank-management
+⭐ CRM Lite API
 
-Backend API for bank card management — JWT authentication, role-based access control, card encryption/masking, transfers between own cards.
-Java Spring Boot PostgreSQL Liquibase Docker Compose JUnit
+⭐ Hotel Booking
 
-crm-lite-api
+--------------------
 
-CRM REST API with database versioning and test coverage.
-Java Spring Boot PostgreSQL JWT Flyway
+Currently Learning
 
-PersonalFinanceAPI
+Kafka
 
-REST API for tracking personal income and expenses.
-Java Spring Boot 3 PostgreSQL
+Redis
 
-ecommerce-order-api
+Kubernetes
 
-Order management REST API for an e-commerce backend.
-Java Spring Boot PostgreSQL
-
-TaskManagerApi
-
-Task management REST API.
-Java Spring Boot
-
-📫 Reach me
+--------------------
 
 Email: zhalgasvactor@gmail.com
+
 Telegram: @zhalgasv
