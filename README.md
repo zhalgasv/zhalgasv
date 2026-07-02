@@ -1,15 +1,18 @@
 # Hi, I'm Adil 👋
 
-Junior Java Backend Developer based in Astana, Kazakhstan. Building REST APIs with Java and Spring Boot.
+Java Backend Developer based in Astana, Kazakhstan.
 
-**Stack:** Java · Spring Boot · REST API · PostgreSQL · JWT · Docker · Liquibase/Flyway · Git
+Building REST APIs with Java and Spring Boot.
+
+**Tech Stack:** Java · Spring Boot · Spring Security · REST API · PostgreSQL · JWT · Docker · Liquibase · Git
 
 ## 🚀 Featured Projects
 
-- **[bank-management](https://github.com/zhalgasv/bank-management)** — JWT auth, role-based access, card encryption, Liquibase, Docker Compose, unit tests
-- **[crm-lite-api](https://github.com/zhalgasv/crm-lite-api)** — CRM API with Flyway migrations and test coverage
-- **[PersonalFinanceAPI](https://github.com/zhalgasv/PersonalFinanceAPI)** — personal finance tracking API on Spring Boot 3
+- **[Bank Management API](https://github.com/zhalgasv/bank-management)** — JWT authentication, role-based access, card encryption, Liquibase, Docker Compose, unit tests.
+- **[CRM Lite API](https://github.com/zhalgasv/crm-lite-api)** — CRM REST API with Flyway migrations, pagination and test coverage.
+- **[Personal Finance API](https://github.com/zhalgasv/PersonalFinanceAPI)** — Personal finance management API built with Spring Boot 3 and PostgreSQL.
 
 ## 📫 Contact
 
-LinkedIn · Telegram · Email
+- Telegram: https://t.me/zhalgasv
+- Email: zhalgasvactor@gmail.com
