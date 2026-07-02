@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Adil 👋
 
-<!--
-**zhalgasv/zhalgasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Java Backend Developer based in Astana, Kazakhstan.
 
-Here are some ideas to get you started:
+I build REST APIs with Java and Spring Boot, focusing on clean architecture, secure authentication, and proper database design. Currently looking for a Junior Java Developer role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Stack
+
+Core: Java · Spring Boot · REST API · PostgreSQL · Git
+Also using: Docker · Liquibase / Flyway · JWT · Spring Security
+
+🚀 Featured Projects
+
+bank-management
+
+Backend API for bank card management — JWT authentication, role-based access control, card encryption/masking, transfers between own cards.
+Java Spring Boot PostgreSQL Liquibase Docker Compose JUnit
+
+crm-lite-api
+
+CRM REST API with database versioning and test coverage.
+Java Spring Boot PostgreSQL JWT Flyway
+
+PersonalFinanceAPI
+
+REST API for tracking personal income and expenses.
+Java Spring Boot 3 PostgreSQL
+
+ecommerce-order-api
+
+Order management REST API for an e-commerce backend.
+Java Spring Boot PostgreSQL
+
+TaskManagerApi
+
+Task management REST API.
+Java Spring Boot
+
+📫 Reach me
+
+Email: zhalgasvactor@gmail.com
+Telegram: @zhalgasv
